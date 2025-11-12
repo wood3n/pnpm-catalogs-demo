@@ -1,0 +1,12 @@
+{
+  "name": "@demo/utils",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "axios": "catalog:",
+    "lodash": "catalog:"
+  },
+  "devDependencies": {
+    "typescript": "catalog:"
+  }
+}
